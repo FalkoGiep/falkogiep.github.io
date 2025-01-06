@@ -50,12 +50,16 @@ collections:
   recepten:
     output: true
     permalink: /:collection/:path/
+  lifestyle:
+    output: true
+    permalink: /:collection/:path/
   overig:
     output: true
     permalink: /:collection/:path/
 
 ordered_collections:
   - recepten
+  - lifestyle
   - overig
 
 page_width: 800px
