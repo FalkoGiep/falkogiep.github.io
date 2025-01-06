@@ -23,7 +23,9 @@ Things I use for organizing.
 - [Obsidian](https://obsidian.md/)
 - [Github Pages for public notes](https://pages.github.com/)
 
-## Other
+## Not used
 
 - [Open-source and organization workshop](https://klemet.github.io/Workshop-Organization-EN/)
 - [Johnny Decimal System](https://johnnydecimal.com/)
+- [cherrytree](https://github.com/giuspen/cherrytree)
+- 

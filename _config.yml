@@ -47,6 +47,9 @@ exclude:
   - _drafts
 
 collections:
+  tech:
+    output: true
+    permalink: /:collection/:path/
   recepten:
     output: true
     permalink: /:collection/:path/
@@ -58,6 +61,7 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
+  - tech
   - recepten
   - lifestyle
   - overig
