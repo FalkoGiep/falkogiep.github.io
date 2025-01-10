@@ -9,4 +9,5 @@ category: Jekyll
 - [obsidian](https://obsidian.md/)
 - [virtualbox](https://www.virtualbox.org/)
 - [keepass](https://keepass.info/)
--
+- [Termux](https://termux.dev/en/)
+- 
