@@ -6,6 +6,11 @@ category: Jekyll
 
 Things I use for organizing.
 
+## Inboxing
+- [boomerang](https://boomerang-app.io/)
+- [zapier](https://zapier.com/apps/gmail/integrations/zapier-chrome-extension/13117/send-yourself-gmail-emails-from-a-google-chrome-extension)
+
+
 ## Organizing files
 
 - [PARA Method](https://fortelabs.com/blog/para/)
