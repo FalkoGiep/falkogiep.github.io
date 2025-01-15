@@ -1,3 +1,8 @@
+---
+title: Azure Pipelines Cheatsheet
+layout: post
+category: Jekyll
+---
 
 ```
 stages: [ stage | template ]
