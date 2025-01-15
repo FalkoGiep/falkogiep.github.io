@@ -4,7 +4,7 @@ layout: post
 category: Jekyll
 ---
 
-```
+```yaml
 stages: [ stage | template ]
 pool: pool # Pool where jobs in this pipeline will run unless otherwise specified
 name: string # Pipeline run number.. 
@@ -23,7 +23,7 @@ variables: variables # Variables for this pipeline
 lockBehavior: string # Behavior lock requests from this stage should exhibit in relation to other exclusive lock requests.  (runLatest,sequential)
 ```
 
-```
+```yaml
 stages:
 - stage: string  # name of the stage, A-Z, a-z, 0-9, and underscore
   displayName: string  # friendly name to display in the UI
@@ -34,7 +34,7 @@ stages:
   jobs: [ job | templateReference]
 ```
 
-```
+```yaml
 jobs:
 - job: string  # name of the job, A-Z, a-z, 0-9, and underscore
   displayName: string  # friendly name to display in the UI
@@ -62,7 +62,7 @@ jobs:
     pools: [ string ] # Pool names, typically when using a matrix strategy for the job
 ```
 
-```
+```yaml
 variables:
   staticVar: 'my value' # static variable
   compileVar: ${{ variables.staticVar }} # compile time expression
